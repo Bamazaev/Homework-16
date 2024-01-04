@@ -22,6 +22,7 @@ header{
     margin: 10px 0;
     padding: 64px 0;
     display: block;
+    padding-left: 25px;
 }
 .menu{
     text-decoration: none;
@@ -31,6 +32,11 @@ header{
     padding-bottom: 15px;
     display: block;
     color: white;
+    padding-left: 25px;
+}
+.menu:hover{
+background-color: #ffffff63;
+
 }
 .main-contener{
     margin-left: 330px;
